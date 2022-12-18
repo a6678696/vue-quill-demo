@@ -42,3 +42,7 @@
 [Spring Boot 实现 VueQuill 富文本编辑器上传图片到服务器 | LeDao's Blog (zoutl.cn)](https://blog.zoutl.cn/546.html)
 
 [VueQuill 富文本编辑器实现图片的缩放 | LeDao's Blog (zoutl.cn)](https://blog.zoutl.cn/547.html)
+
+### 效果GIF图
+
+![1](https://user-images.githubusercontent.com/45851356/208294462-b311a62c-2f82-4f0e-9ce9-699bdd8ab4ad.gif)
